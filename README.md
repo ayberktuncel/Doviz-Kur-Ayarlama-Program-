@@ -32,9 +32,7 @@ Bu proje, Python ve Streamlit kullanılarak geliştirilmiş, anlık piyasa veril
     ```bash
     streamlit run doviz.py
     ```
-
-## 📸 Örnek Kullanım
-*(Uygulamanın ekran görüntüsünü buraya ekleyebilirsiniz)*
-
 ---
-**Geliştirici:** [Ayberk Tuncel](https://github.com/ayberktuncel)(https://www.linkedin.com/in/ayberk-tuncel/)
+**Geliştirici:** **Ayberk Tuncel**
+* 💼 **[LinkedIn Profilim](https://www.linkedin.com/in/ayberk-tuncel/)
+* 🐙 **[GitHub Profilim](https://github.com/ayberktuncel)**
