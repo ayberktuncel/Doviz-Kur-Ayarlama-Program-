@@ -34,5 +34,5 @@ Bu proje, Python ve Streamlit kullanılarak geliştirilmiş, anlık piyasa veril
     ```
 ---
 **Geliştirici:** **Ayberk Tuncel**
-* 💼 **[LinkedIn Profilim](https://www.linkedin.com/in/ayberk-tuncel/)
+* 💼 **[LinkedIn Profilim](https://www.linkedin.com/in/ayberk-tuncel/)**
 * 🐙 **[GitHub Profilim](https://github.com/ayberktuncel)**
