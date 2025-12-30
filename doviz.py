@@ -9,7 +9,7 @@ import requests
 
 # Girdilerin Ayarlanması
 st.title("💰 Döviz( USD, EUR to TRY ) Çevirme Programı") #Algoritmada TL yerine TRY kullanılır.
-st.write("Hoş geldin! Çevirilecek para ve birimini çevrilecek olan birimi ayarlayınız.")
+st.write("Hoş geldin! Çevirilecek para ve birimini ayarlayınız.")
 para_miktarı= st.number_input("Çevrilecek olan miktarı giriniz",value=100.0)
 para_birimi=st.selectbox("Para birimini seçiniz",["USD", "EUR"])
 
