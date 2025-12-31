@@ -1,5 +1,6 @@
 # 💰 Döviz Kur Hesaplama Programı
 🛜**Site Linki:** https://ayberk-doviz-kur-hesap-programi.streamlit.app/
+
 Bu proje, Python ve Streamlit kullanılarak geliştirilmiş, anlık piyasa verilerini kullanarak döviz çevirisi yapan bir web uygulamasıdır.
 
 **Frankfurter API** kullanılarak **USD** ve **EUR** kurlarını anlık olarak **TRY** (Türk Lirası) karşılığına çevirir.
